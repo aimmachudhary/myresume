@@ -1,0 +1,22 @@
+body{
+    margin: 2%;
+    background-color: blanchedalmond;
+    font-size: large
+}
+
+
+img{
+    width: 12%;
+    height: 12%;
+    border-radius: 80%;
+
+}
+ul{
+    list-style:circle;
+}
+h3{
+    color: brown;
+}
+h6{
+  color: brown;  
+}
